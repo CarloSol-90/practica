@@ -1,3 +1,3 @@
 console.log("****************");
-console.log("Soy el fichero B");
+console.log("fichero 2");
 console.log("****************");
